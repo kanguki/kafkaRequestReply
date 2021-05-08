@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"mo.io/reqRep/pkg/kafka"
+	"mo.io/kafkaReqRep/pkg/kafka"
 )
 
 func Produce(w http.ResponseWriter, r *http.Request) {

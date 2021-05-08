@@ -2,7 +2,7 @@ package router
 
 import (
 	"github.com/gorilla/mux"
-	"mo.io/reqRep/cmd/service"
+	"mo.io/kafkaReqRep/cmd/service"
 )
 
 func GetHandler() *mux.Router {

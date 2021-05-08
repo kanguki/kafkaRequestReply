@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
-	"mo.io/reqRep/cmd/router"
-	"mo.io/reqRep/pkg/kafka"
+	"mo.io/kafkaReqRep/cmd/router"
+	"mo.io/kafkaReqRep/pkg/kafka"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module mo.io/reqRep
+module mo.io/kafkaReqRep
 
 go 1.16
 

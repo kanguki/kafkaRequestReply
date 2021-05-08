@@ -5,7 +5,7 @@ import (
 	"gopkg.in/confluentinc/confluent-kafka-go.v1/kafka"
 	//import based on folder location. refer in code based on name of package.
 	//here, although folder named kafkaConfig, package named kafConfig, so it's referred kafConfig
-	"mo.io/reqRep/conf/kafkaConfig"
+	"mo.io/kafkaReqRep/conf/kafkaConfig"
 )
 
 var KafkaProducer *kafka.Producer
